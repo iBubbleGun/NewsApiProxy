@@ -9,5 +9,4 @@ public class NewsApiProxyApplication {
     public static void main(String[] args) {
         SpringApplication.run(NewsApiProxyApplication.class, args);
     }
-
 }
